@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7fcc528f-f0d4-4930-81f6-749e36b6a897" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/driverSetUp/chromeDriverSetUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/globalVariables/setGlobalVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/navigationPages/homePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/navigationPages/loginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/purchases/TC7_buySmartTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/searchBar/TC3_noMatchingArticlesFound.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Li1RvrggqVT6DJ2ZSZgANzmdUr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/jesusfigueroa/IdeaProjects/Apex_Liverpool/driver",
+    "settings.editor.selected.configurable": "configurable.group.build"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TC3_noMatchingArticlesFound.TC_3_noMatchingArticlesFound">
+    <configuration name="TC3_noMatchingArticlesFound.TC_3_noMatchingArticlesFound" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Apex_Liverpool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="searchBar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="searchBar" />
+      <option name="MAIN_CLASS_NAME" value="searchBar.TC3_noMatchingArticlesFound" />
+      <option name="METHOD_NAME" value="TC_3_noMatchingArticlesFound" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC3_noMatchingArticlesFound.TC_7_buySmartTV" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Apex_Liverpool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="searchBar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="searchBar" />
+      <option name="MAIN_CLASS_NAME" value="searchBar.TC3_noMatchingArticlesFound" />
+      <option name="METHOD_NAME" value="TC_7_buySmartTV" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC7_buySmartTV.TC_7_buySmartTV (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Apex_Liverpool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="purchases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="purchases" />
+      <option name="MAIN_CLASS_NAME" value="purchases.TC7_buySmartTV" />
+      <option name="METHOD_NAME" value="TC_7_buySmartTV" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC7_buySmartTV.TC_7_buySmartTV (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Apex_Liverpool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="purchases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="purchases" />
+      <option name="MAIN_CLASS_NAME" value="purchases.TC7_buySmartTV" />
+      <option name="METHOD_NAME" value="TC_7_buySmartTV" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC7_buySmartTV.TC_7_buySmartTV" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Apex_Liverpool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="purchases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="purchases" />
+      <option name="MAIN_CLASS_NAME" value="purchases.TC7_buySmartTV" />
+      <option name="METHOD_NAME" value="TC_7_buySmartTV" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TC3_noMatchingArticlesFound.TC_3_noMatchingArticlesFound" />
+        <item itemvalue="TestNG.TC3_noMatchingArticlesFound.TC_7_buySmartTV" />
+        <item itemvalue="TestNG.TC7_buySmartTV.TC_7_buySmartTV" />
+        <item itemvalue="TestNG.TC7_buySmartTV.TC_7_buySmartTV (1)" />
+        <item itemvalue="TestNG.TC7_buySmartTV.TC_7_buySmartTV (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fcc528f-f0d4-4930-81f6-749e36b6a897" name="Changes" comment="" />
+      <created>1676339086533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676339086533</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
